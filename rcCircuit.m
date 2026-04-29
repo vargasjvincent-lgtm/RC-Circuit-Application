@@ -1,4 +1,4 @@
-% RC Circuit Application
+% RC Circuit Application solving usinf ode 45 %%% try to use another solver I suggest ode 15
 % Define constants
 RC = 0.2;
 vi = 2;
